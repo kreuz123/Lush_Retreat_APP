@@ -1,0 +1,7 @@
+{
+  "name": "lush-retreat2024",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
