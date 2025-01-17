@@ -73,4 +73,4 @@ This project provided valuable experience in:
 
 ---
 
-Developed by Chien Chuan Huang 2311268 | Laurea University of Applied Sciences
+Developed by Chien Chuan Huang | Laurea University of Applied Sciences in Finland
